@@ -4,8 +4,8 @@
 конвертація JSON у CSV, зберігання в бакеті Amazon S3 та побудова графіка
 в Jupyter Notebook.
 
-- `nbu_to_s3.py` — отримання даних з API НБУ та вивантаження CSV на S3
-- `lab2_nbu_rates.ipynb` — читання CSV з S3 та побудова графіка
-- `requirements.txt` — залежності Python
+- `nbu_to_s3.py` - отримання даних з API НБУ та вивантаження CSV на S3
+- `lab2_nbu_rates.ipynb` - читання CSV з S3 та побудова графіка
+- `requirements.txt` - залежності Python
 
 Автор: Сема Ангеліна, ІН-31/2
